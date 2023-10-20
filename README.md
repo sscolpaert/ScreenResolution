@@ -1,20 +1,28 @@
+## Screen Resolution
+Este é um pequeno programa Java que exibe a resolução do monitor atual.
 
-## Contribuição
-Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga estas etapas:
-1. Faça um fork deste repositório.
-2. Crie uma nova branch com uma descrição clara das alterações que você está fazendo.
-3. Faça as alterações e faça um commit.
-4. Envie um pull request para este repositório.
+## Descrição
+O programa ScreenResolution foi desenvolvido em Java para obter e exibir a resolução do monitor em que é executado. Ele utiliza a classe Dimension e a classe Toolkit para acessar informações sobre a resolução da tela.
 
-## Licença
-Este programa é distribuído sob a licença [nome da licença]. Consulte o arquivo LICENSE para obter mais detalhes.
+## Como Usar
+Siga estas etapas para utilizar o programa:
 
-## Contato
-- Autor: [Seu Nome]
-- Email: [Seu Endereço de Email]
+Clone o repositório para o seu computador ou faça o download do arquivo ScreenResolution.java.
 
-## Agradecimentos
-- [Liste qualquer pessoa, projeto ou recurso que você gostaria de agradecer]
+Abra um terminal e navegue até o diretório onde o arquivo ScreenResolution.java está localizado.
 
-[Inclua qualquer outra informação relevante ou instruções que você achar necessárias para que os usuários entendam e utilizem seu programa.]
+Compile o código Java digitando o seguinte comando:
+```bash
+javac ScreenResolution.java
+````
+Execute o programa com o seguinte comando:
+````bash
+java ScreenResolution
+````
+A resolução do monitor será exibida no terminal.
 
+## Pré-requisitos
+Certifique-se de ter o ambiente de desenvolvimento Java configurado em sua máquina.
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou relatar problemas.
